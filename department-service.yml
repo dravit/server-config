@@ -3,7 +3,7 @@ spring:
     name: Department Service
 
 application:
-  welcomeMessage: welcome,Baljeet Malik
+  welcomeMessage: welcome,Baljeet Malik, Hope you are going well
 
 server:
   port: 8081
