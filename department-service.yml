@@ -1,6 +1,10 @@
 spring:
   application:
     name: Department Service
+
+application:
+  welcomeMessage: welcome,Baljeet Malik
+
 server:
   port: 8081
 eureka:

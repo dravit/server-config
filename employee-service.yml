@@ -1,6 +1,10 @@
 spring:
   application:
     name: Employee Service
+
+application:
+  welcomeMessage: Welcome,Baljeet
+
 server:
   port: 8080
 eureka:
