@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Employee Service
+    name: employee-service
 
 application:
   welcomeMessage: Welcome,Baljeet
