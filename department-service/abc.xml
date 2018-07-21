@@ -1,0 +1,127 @@
+<m2mPlan>
+	<planId>M2M_PLN_0179</planId>
+	<planName>M2ML RS. 346.8 3G 400MB (Dynamic IP)</planName>
+	<displayName>M2ML RS. 346.8 3G 400MB (Dynamic IP)</displayName>
+	<brandName>M2M</brandName>
+	<description>M2ML RS. 346.8 3G 400MB (Dynamic IP)</description>
+	<listPrice>10</listPrice>
+	<priceType>RC</priceType>
+	<currency>INR</currency>
+	<creationDate>08-12-17 06:39:57.503000000 PM</creationDate>
+	<startDate></startDate>
+	<endDate></endDate>
+	<status>Active</status>
+	<billShield></billShield>
+	<product>
+		<productId>M2M_PRD_0002</productId>
+		<productName>M2M_SIM</productName>
+		<description>SIM Service</description>
+		<productCategory>SIM</productCategory>
+		<productType>SIM</productType>
+		<productConf>SIM</productConf>
+		<productClassification>GENERIC</productClassification>
+		<fulfillmentCode>01</fulfillmentCode>
+		<billingType></billingType>
+		<dataPulse>0</dataPulse>
+		<price>0</price>
+		<units></units>
+		<uom></uom>
+		<status>Active</status>
+	</product>
+	<product>
+		<productId>M2M_PRD_0003</productId>
+		<productName>M2M_SERVICE_BUNDLE</productName>
+		<description>Service Bundle</description>
+		<productCategory>Service Bundle</productCategory>
+		<productType>Service Bundle</productType>
+		<productConf>Service Bundle</productConf>
+		<productClassification>GENERIC</productClassification>
+		<fulfillmentCode>01</fulfillmentCode>
+		<billingType></billingType>
+		<dataPulse>0</dataPulse>
+		<price>0</price>
+		<units></units>
+		<uom></uom>
+		<status>Active</status>
+	</product>
+	<product>
+		<productId>M2M_PRD_0004</productId>
+		<productName>M2M_BASIC_SERVICE</productName>
+		<description>Basic Services</description>
+		<productCategory>Basic Services</productCategory>
+		<productType>Basic Services</productType>
+		<productConf>04</productConf>
+		<productClassification>GENERIC</productClassification>
+		<fulfillmentCode>03</fulfillmentCode>
+		<billingType>22</billingType>
+		<dataPulse>0</dataPulse>
+		<price>0</price>
+		<units></units>
+		<uom></uom>
+		<status>Active</status>
+	</product>
+	<product>
+		<productId>M2M_PRD_0015</productId>
+		<productName>M2M_DATA_2G_FREEBIE</productName>
+		<description>M2M DATA 2G FREEBIE</description>
+		<productCategory>Product</productCategory>
+		<productType>Freebie</productType>
+		<productConf>01</productConf>
+		<productClassification>2G</productClassification>
+		<fulfillmentCode>06</fulfillmentCode>
+		<billingType>22</billingType>
+		<dataPulse>10</dataPulse>
+		<price>0</price>
+		<units></units>
+		<uom></uom>
+		<status>Active</status>
+	</product>
+	<product>
+		<productId>M2M_PRD_0018</productId>
+		<productName>SMS_INCOMMING_ACTIVATE</productName>
+		<description>SMS INCOMMING ACTIVATE</description>
+		<productCategory>Product</productCategory>
+		<productType>Service</productType>
+		<productConf>04</productConf>
+		<productClassification>SMS_INCOMMING_ACTIVATE</productClassification>
+		<fulfillmentCode>02</fulfillmentCode>
+		<billingType>22</billingType>
+		<dataPulse>0</dataPulse>
+		<price>0</price>
+		<units></units>
+		<uom></uom>
+		<status>Active</status>
+	</product>
+	<product>
+		<productId>M2M_PRD_0021</productId>
+		<productName>M2M_PLAN_3_MONTH_ADV_RENT</productName>
+		<description>M2M Promotional Plan</description>
+		<productCategory>Promotion</productCategory>
+		<productType>Promotion Plans</productType>
+		<productConf>05</productConf>
+		<productClassification>M2M_PLAN_3_MONTH_ADV_RENT</productClassification>
+		<fulfillmentCode></fulfillmentCode>
+		<billingType>26</billingType>
+		<dataPulse>0</dataPulse>
+		<price>0</price>
+		<units></units>
+		<uom></uom>
+		<status>Active</status>
+	</product>
+	<product>
+		<productId>M2M_PRD_0041</productId>
+		<productName>M2M_3G_1071_80Kbps</productName>
+		<description>M2M_3G_1071_80Kbps</description>
+		<productCategory>Product</productCategory>
+		<productType>Service</productType>
+		<productConf>05</productConf>
+		<productClassification>3G</productClassification>
+		<fulfillmentCode>03</fulfillmentCode>
+		<billingType>12</billingType>
+		<dataPulse>10</dataPulse>
+		<price>0</price>
+		<units></units>
+		<uom></uom>
+		<status>Active</status>
+	</product>
+</m2mPlan>
