@@ -1,1 +1,3 @@
-test=OK:
+test1: OK
+test2: I am not OK
+test3: OK OK
